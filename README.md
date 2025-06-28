@@ -3,7 +3,7 @@ Welcome to the demo of FlightFinder: Navigating Your Air Travel Options, a full-
 
 This video showcases the core features for Users, Operators, and Admins, demonstrating the complete workflow from searching flights to managing system data.
 
- Video Demo(https://drive.google.com/file/d/1URb1mpKcbzeDokirGLmH0JbYVFM9MwCH/view?usp=sharing)
+ [Video Demo](https://drive.google.com/file/d/1URb1mpKcbzeDokirGLmH0JbYVFM9MwCH/view?usp=sharing)
 
  User Module
 
